@@ -118,11 +118,3 @@ function game_loop(){
 }
 
 let game = setInterval(game_loop, FPS);
-
-
-
-
-
-
-
-
